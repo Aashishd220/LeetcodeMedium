@@ -1,7 +1,13 @@
 2. 162. Find Peak Element
+Input: nums = [1,2,3,1]
+Output: 2
+Explanation: 3 is a peak element and your function should return the index number 2.
   not able to understand the kevin version.
   
 4. 137. Single Number II
+Input: [2,2,3,2]
+Output: 3
   Have to think about the soln with no extra space.
   
-5.
+5. 11. Container With Most Water
+  Think yourself about O(n^2) and O(n) soln.
